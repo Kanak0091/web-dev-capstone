@@ -1,14 +1,15 @@
-<!-- HEADER BANNER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7a1722,50:9b1d2c,100:d4a017&height=210§ion=header&text=Aaditi's%20House%20of%20Banaras&fontSize=38&fontColor=ffe8a3&fontAlignY=38&desc=Authentic%20Handloom%20Silk%20Sarees%20%26%20Home%20Decor%20from%20Varanasi&descSize=16&descColor=fdf8f0&descAlignY=58" width="100%" alt="Aaditi's House of Banaras Header Banner" />
+  <img src="./header-banner.svg" width="100%" alt="Aaditi's House of Banaras Header Banner" />
 </div>
+
+<br/>
 
 <div align="center">
 
 [![Live Demo](https://img.shields.io/badge/🌐_Live_Website-Visit_Storefront-7a1722?style=for-the-badge&labelColor=d4a017)](https://kanak0091.github.io/web-dev-capstone/)
 ![HTML5](https://img.shields.io/badge/HTML5-Semantic_Markup-7a1722?style=for-the-badge&logo=html5&logoColor=ffe8a3)
 ![CSS3](https://img.shields.io/badge/CSS3-Grid_&_Flexbox-9b1d2c?style=for-the-badge&logo=css3&logoColor=ffe8a3)
-![Responsive](https://img.shields.io/badge/Design-Mobile_First_Responsive-d4a017?style=for-the-badge&labelColor=222222)
+![Responsive](https://img.shields.io/badge/Design-Responsive_UI-d4a017?style=for-the-badge&labelColor=222222)
 
 **Crafted with heritage & code by [Kanak](https://github.com/Kanak0091) | Web Development Lab 5 Capstone**
 
@@ -26,15 +27,13 @@
 
 ## 🎨 Brand Colour Palette
 
-The visual identity draws directly from traditional Banarasi wedding silks and temple-border zari work:
-
-| Swatch | Role | Hex Code | Usage in UI |
+| Colour | Role | Hex Code | Usage in UI |
 | :---: | :--- | :--- | :--- |
-| ![#7a1722](https://placehold.co/24x24/7a1722/7a1722.png) | **Banarasi Maroon** | `#7A1722` | Sticky header, footer, headings & primary CTAs |
-| ![#d4a017](https://placehold.co/24x24/d4a017/d4a017.png) | **Antique Zari Gold** | `#D4A017` | Section dividers, border accents & cart buttons |
-| ![#fdf8f0](https://placehold.co/24x24/fdf8f0/fdf8f0.png) | **Raw Silk Cream** | `#FDF8F0` | Hero banner, alternating sections & testimonial cards |
-| ![#ffe8a3](https://placehold.co/24x24/ffe8a3/ffe8a3.png) | **Soft Gold Tissue** | `#FFE8A3` | Brand title highlight & footer social links |
-| ![#222222](https://placehold.co/24x24/222222/222222.png) | **Charcoal Ink** | `#222222` | High-contrast readable body typography |
+| 🟥 | **Banarasi Maroon** | `#7A1722` | Sticky header, footer, headings & primary CTAs |
+| 🟨 | **Antique Zari Gold** | `#D4A017` | Section dividers, border accents & cart buttons |
+| ⬜ | **Raw Silk Cream** | `#FDF8F0` | Hero banner, alternating sections & testimonial cards |
+| 🌟 | **Soft Gold Tissue** | `#FFE8A3` | Brand title highlight & footer social links |
+| ⬛ | **Charcoal Ink** | `#222222` | High-contrast readable body typography |
 
 ---
 
@@ -74,5 +73,7 @@ web-dev-capstone/
 ├── about.html                  # Brand story, USPs & customer testimonials
 ├── contact.html                # Custom order & inquiry form
 ├── style.css                   # Theme variables, Grid/Flexbox layouts & responsive queries
+├── header-banner.svg           # Custom Banarasi maroon & gold README header banner
+├── footer-banner.svg           # Custom Banarasi maroon & gold README footer banner
 ├── README.md                   # Project documentation
 └── *.jpg / *.jpeg              # 12 authentic Banarasi handloom product & category photos

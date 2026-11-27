@@ -77,3 +77,15 @@ web-dev-capstone/
 ├── footer-banner.svg           # Custom Banarasi maroon & gold README footer banner
 ├── README.md                   # Project documentation
 └── *.jpeg                      # 12 authentic Banarasi handloom product & category photos
+
+
+```
+
+## 🚀 Run Locally
+
+1. **Clone the repository:** `git clone [https://github.com/Kanak0091/web-dev-capstone.git](https://github.com/Kanak0091/web-dev-capstone.git)`
+
+
+<div align="center">
+  <img src="./footer-banner.svg" width="100%" alt="Aaditi's House of Banaras Footer Banner" />
+</div>

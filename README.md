@@ -77,3 +77,9 @@ web-dev-capstone/
 ├── footer-banner.svg           # Custom Banarasi maroon & gold README footer banner
 ├── README.md                   # Project documentation
 └── *.jpg / *.jpeg              # 12 authentic Banarasi handloom product & category photos
+
+---
+
+<div align="center">
+  <img src="./footer-banner.svg" width="100%" alt="Aaditi's House of Banaras Footer Banner" />
+</div>
